@@ -1,4 +1,4 @@
 batch
 =====
 
-Alguns dos nossos scripts para Microsoft Windows.
+BatchScripts que utilizamos em nossos projetos.
