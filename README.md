@@ -3,7 +3,8 @@ batch
 
 BatchScripts que utilizamos em nossos projetos.
 
-# Dependências
+# Lista de scripts
 
-* [ImageMagick](http://www.imagemagick.org/script/binary-releases.php#windows)
-* [GhostScript](http://www.ghostscript.com/download/gsdnld.html)
+* [Jack](https://github.com/GrupoMauaRegiao/batch/tree/master/Jack)
+
+Script que divide um único arquivo PDF em diversos outros - utilizado geralmente para a extração de boletos localizados em um único arquivo PDF.
